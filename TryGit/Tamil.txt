@@ -1,2 +1,2 @@
 Tamil mark =100
-mark i got = 90.
+mark i got = 100.
