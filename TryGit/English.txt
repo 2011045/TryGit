@@ -1,0 +1,2 @@
+English mark =100
+mark i got = 80.
